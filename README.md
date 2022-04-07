@@ -13,7 +13,7 @@ Javascript fundamentals and ReactJS.
 ### Contact :email:
 
 Please feel free to contact me if you have anything to
-discus about `#front-end-development`, `#learning-path`, and
+discus about `#front-end-development`, `#learning-path`, or
 any related topic.
 
 My Email: benyamin.parang@gmail.com
