@@ -1,16 +1,19 @@
-### Hi there 👋
+### Hi! I'm Benyamin Parang.
 
-<!--
-**BenyaminParang/BenyaminParang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I grew up in Bushehr in th esouth of Iran. I have always
+been enthusiatic about software development and working with
+computers trying to figure out what's going on underneath.
+Although I studied Electrical engineering at university, my
+passion for learning programming never disappeared, and I
+tried to change my direction towards it occasionally.
 
-Here are some ideas to get you started:
+I’m currently learning front-end development focusing on
+Javascript fundamentals and ReactJS.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Contact :email:
+
+Please feel free to contact me if you have anything to
+discus about `#front-end-development`, `#learning-path`, and
+any related topic.
+
+My Email: benyamin.parang@gmail.com
