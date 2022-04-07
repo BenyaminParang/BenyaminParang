@@ -1,6 +1,6 @@
 ### Hi! I'm Benyamin Parang.
 
-I grew up in Bushehr in th esouth of Iran. I have always
+I grew up in Bushehr in the south of Iran. I have always
 been enthusiatic about software development and working with
 computers trying to figure out what's going on underneath.
 Although I studied Electrical engineering at university, my
